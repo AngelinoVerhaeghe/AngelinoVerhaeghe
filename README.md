@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi 👋, I'm Angelino Verhaeghe
+Full Stack developer
+profile count  GitHub AngelinoVerhaeghe
 
-<!--
-**AngelinoVerhaeghe/AngelinoVerhaeghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻  About Me
+💡   Currently working as a Full Stack Developer at DX-Solutions.
+💻  I'm currently performing research in the field of Speech Emotion Recognation , Dhaka- Bangladesh.
+🎓 I followed a course of Full Stack Developer at Syntra West a education.
+🌱  I'm on track for learning more about Vue, Nuxt , Strapi CMS.
+✍️  In my free time, I play World of Warcraft, going to football games as my hobbies.
+💬  Feel free to reach out to me for general consulting, or discussions on any topics!
+✉️  You can email me at verhaegheangelino@gmail.com. I'll try to respond as soon as possible!
 
-Here are some ideas to get you started:
+🛠  Tech Stack
+JavaScript  PHP 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML  CSS  Bootstrap  Laravel  Symfony 
+
+Git  GitHub  PHPStorm 
+
+📫   How to reach me:
+LinkedIn   Gmail     
