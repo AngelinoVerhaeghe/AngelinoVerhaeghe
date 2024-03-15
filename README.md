@@ -1,22 +1,37 @@
 Hi 👋, I'm Angelino Verhaeghe
-Full Stack developer
-profile count  GitHub AngelinoVerhaeghe
 
-👨🏻‍💻  About Me
+
+
+Full Stack developer
+
+
+👨🏻‍💻  **About Me**
+
 💡   Currently working as a Full Stack Developer at DX-Solutions.
-💻  I'm currently performing research in the field of Speech Emotion Recognation , Dhaka- Bangladesh.
-🎓 I followed a course of Full Stack Developer at Syntra West a education.
+
+🎓 I followed a Full Stack Developer education at Syntra West.
+
 🌱  I'm on track for learning more about Vue, Nuxt , Strapi CMS.
-✍️  In my free time, I play World of Warcraft, going to football games as my hobbies.
-💬  Feel free to reach out to me for general consulting, or discussions on any topics!
-✉️  You can email me at verhaegheangelino@gmail.com. I'll try to respond as soon as possible!
+
+✍️  In my free time, i play World of Warcraft and going to football games as my hobbies.
+
 
 🛠  Tech Stack
-JavaScript  PHP 
 
-HTML  CSS  Bootstrap  Laravel  Symfony 
+![](https://camo.githubusercontent.com/b95a05885d234291abaea2ccdecbad37bfb47c2964ae818526d76905d8d49438/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074)
+![](https://camo.githubusercontent.com/627ac052d32fac7303c16f45e2d03aebd5577559454b0ba6743fe8ebc9a331fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3035313232413f7374796c653d666c6174266c6f676f3d706870)
 
-Git  GitHub  PHPStorm 
+![](https://camo.githubusercontent.com/f5d8f5bac7a140bdf85a42fc9bb0bb6bc51cdedce8efb7ff5c8bafea12d86342/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35)
+![](https://camo.githubusercontent.com/9b95f14b76aeda0fd717bebe3729a10b90cd62e94e920726111a4b4d6c87fcd4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)
+![](https://camo.githubusercontent.com/38b2bf7257f8a2e74117b783af79f76b0b8f25c5360324dc55630a39ef0b3a82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743)
+![](https://camo.githubusercontent.com/1761147f827742a2cedb39da7d656ccb0e593b3dbf737b36f8b6e05e8068a546/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d3035313232413f7374796c653d666c6174266c6f676f3d6c61726176656c266c6f676f436f6c6f723d443033443539)
+![]()
+
+![](https://camo.githubusercontent.com/eac55a4f93501ed5806115edf714656795057376378402d3794e2bdef70705ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974)
+![](https://camo.githubusercontent.com/b6524610b20a6c5a219ba2b9a18cf5f3065f8a886fa9ddc831a9ca1626d72490/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562)
+
 
 📫   How to reach me:
-LinkedIn   Gmail     
+
+[![An old rock in the desert](https://camo.githubusercontent.com/639243a5d790b40f07e59e0751c9280b6e0120541c64e8ac6a5067b8393a40be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://linkedin.com/in/angelinoverhaeghe)
+[![An old rock in the desert](https://camo.githubusercontent.com/7e309a69e7ba420e841844b03cf3cb6beec3915d10a51fac6463cfaf230a7e8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:verhaegheangelino@gmail.com)   
