@@ -7,7 +7,7 @@ Full Stack developer
 
 👨🏻‍💻  **About Me**
 
-💡   Currently working as a Full Stack Developer at DX-Solutions.
+💡   Currently working as a Full Stack Developer.
 
 🎓 I followed a Full Stack Developer education at Syntra West.
 
