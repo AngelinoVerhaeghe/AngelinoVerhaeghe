@@ -15,7 +15,6 @@ Full Stack developer
 
 ✍️  In my free time, i play World of Warcraft and going to football games as my hobbies.
 
-```md
 ## 🛠 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +42,7 @@ Full Stack developer
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=blue)
-```
+
 ### 📫   How to reach me:
 
 https://linkedin.com/in/angelinoverhaeghe
